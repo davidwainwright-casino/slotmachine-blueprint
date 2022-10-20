@@ -1,0 +1,50 @@
+{
+  "A": {
+    "offset": "0px"
+  },
+  "B": {
+    "offset": "-125px"
+  },
+  "C": {
+    "offset": "-250px"
+  },
+  "D": {
+    "offset": "-375px"
+  },
+  "E": {
+    "offset": "-500px"
+  },
+  "F": {
+    "offset": "-625px"
+  },
+  "G": {
+    "offset": "-750px"
+  },
+  "H": {
+    "offset": "-875px"
+  },
+  "I": {
+    "offset": "-1000px"
+  },
+  "J": {
+    "offset": "-1125px"
+  },
+  "K": {
+    "offset": "-1250px"
+  },
+  "L": {
+    "offset": "-1375px"
+  },
+  "M": {
+    "offset": "-1500px"
+  },
+  "N": {
+    "offset": "-1625px"
+  },
+  "O": {
+    "offset": "-1750px"
+  },
+  "P": {
+    "offset": "-1875px"
+  }
+}
